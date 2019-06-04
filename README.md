@@ -1,2 +1,2 @@
 # mooc-certificates
-Online certifications
+Online certifications from various platforms
